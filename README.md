@@ -27,4 +27,4 @@ You can also replace 10 by how many number of instruction you want to run the co
 6> You can check the new file made in the same folder by name of trace and number of instructions. 
 
 
-Trances  Link: https://drive.google.com/drive/folders/1lxbyLJ30uXWaxK7uy_84BHyr5WjlC8Qu
+Traces  Link: https://drive.google.com/drive/folders/1lxbyLJ30uXWaxK7uy_84BHyr5WjlC8Qu
