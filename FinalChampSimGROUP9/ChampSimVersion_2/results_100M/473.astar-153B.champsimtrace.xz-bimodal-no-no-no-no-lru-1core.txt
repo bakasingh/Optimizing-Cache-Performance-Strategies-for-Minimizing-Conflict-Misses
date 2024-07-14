@@ -1,0 +1,22 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 1000000
+Simulation Instructions: 100000000
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Size: 4096 MB Channels: 1 Width: 64-bit Data Rate: 3200 MT/s
+
+CPU 0 runs /mnt/c/Users/Asus/OneDrive/Desktop/ACADEMICS/SEM4/CS204/ChampSim/dpc3_traces/473.astar-153B.champsimtrace.xz
+CPU 0 Bimodal branch predictor
+
+Warmup complete CPU 0 instructions: 1000003 cycles: 453122 (Simulation time: 0 hr 0 min 2 sec) 
+
+Heartbeat CPU 0 instructions: 10000003 cycles: 15108678 heartbeat IPC: 0.661871 cumulative IPC: 0.614102 (Simulation time: 0 hr 0 min 16 sec) 
+Heartbeat CPU 0 instructions: 20000000 cycles: 29963215 heartbeat IPC: 0.673195 cumulative IPC: 0.643847 (Simulation time: 0 hr 0 min 30 sec) 
+Heartbeat CPU 0 instructions: 30000000 cycles: 44855151 heartbeat IPC: 0.671504 cumulative IPC: 0.653123 (Simulation time: 0 hr 0 min 45 sec) 
+Heartbeat CPU 0 instructions: 40000000 cycles: 59924809 heartbeat IPC: 0.663585 cumulative IPC: 0.655774 (Simulation time: 0 hr 1 min 0 sec) 
+Heartbeat CPU 0 instructions: 50000001 cycles: 75087660 heartbeat IPC: 0.659507 cumulative IPC: 0.656532 (Simulation time: 0 hr 1 min 15 sec) 
+Heartbeat CPU 0 instructions: 60000000 cycles: 90143959 heartbeat IPC: 0.664174 cumulative IPC: 0.657815 (Simulation time: 0 hr 1 min 29 sec) 
+Heartbeat CPU 0 instructions: 70000001 cycles: 104992149 heartbeat IPC: 0.673483 cumulative IPC: 0.660041 (Simulation time: 0 hr 1 min 44 sec) 
